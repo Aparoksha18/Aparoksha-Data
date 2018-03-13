@@ -599,21 +599,21 @@
 		"id": 135,
 		"name": "Infinitum",
 		"description": "Infinitum is an event that will have Mathematical problems that can be solved either by hand or by using programming languages.",
-		"location": "ONLINE",
+		"location": "Oonline",
 		"timestamp": 1521237600,
-		"imageUrl": "images/evevts/Infinitum.png",
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/Infinitum.png",
 		"duration": 720,
 		"facebookEventLink": "https://www.facebook.com/events/310564992801478/",
 		"additionalInfo": [],
 		"categories": [
-			"coding and mathematics"
+			"coding"
 		],
 		"organizers": [{
-			"name": "SURAS KUMAR NAYAK",
+			"name": "Suras Kumar Nayak",
 			"phoneNumber": 8309959315
 		},
 			      {
-			"name": "LAKSHYA KHATTAR",
+			"name": "Lakshya Khattar",
 			"phoneNumber": 7986089309
 		}]
 	},
