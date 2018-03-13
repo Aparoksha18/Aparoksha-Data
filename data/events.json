@@ -309,17 +309,21 @@
 		"name": "Blind War",
 		"description": "",
 		"location": "Computer Centre 3",
-		"timestamp": 1521261000,
-		"imageUrl": "",
+		"timestamp": 1521280800,
+		"imageUrl": "images/events/blind_war.png",
 		"duration": 0,
-		"facebookEventLink": "",
+		"facebookEventLink": "https://www.facebook.com/events/816956965160664/",
 		"additionalInfo": [],
 		"categories": [
 			"coding"
 		],
 		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
+			"name": "MOHAMMAD AQUIB",
+			"phoneNumber": 8299617352
+		},
+		{
+			"name": "NIKHIL KORI",
+			"phoneNumber": 8840149523
 		}]
 	},
 	{
