@@ -598,19 +598,23 @@
 	{
 		"id": 135,
 		"name": "Infinitum",
-		"description": "",
-		"location": "Computer Centre 3",
-		"timestamp": 0,
-		"imageUrl": "",
-		"duration": 0,
-		"facebookEventLink": "",
+		"description": "Infinitum is an event that will have Mathematical problems that can be solved either by hand or by using programming languages.",
+		"location": "Oonline",
+		"timestamp": 1521237600,
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/Infinitum.png",
+		"duration": 720,
+		"facebookEventLink": "https://www.facebook.com/events/310564992801478/",
 		"additionalInfo": [],
 		"categories": [
 			"coding"
 		],
 		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
+			"name": "Suras Kumar Nayak",
+			"phoneNumber": 8309959315
+		},
+			      {
+			"name": "Lakshya Khattar",
+			"phoneNumber": 7986089309
 		}]
 	},
 	{
