@@ -11,10 +11,7 @@
 			"informal"
 		],
 		"duration": 0,
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 102,
@@ -22,7 +19,7 @@
 		"description": "",
 		"location": "Computer Centre 3",
 		"timestamp": 1521171000,
-		"imageUrl": "",
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/cfresh.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"duration": 0,
@@ -30,9 +27,22 @@
 			"coding"
 		],
 		"organizers": [{
-			"name": "",
-			"phoneNumber": 7060882011
-		}]
+			"name": "Somya Sharma",
+			"phoneNumber": 8126503181
+		}, {
+			"name": "Utkarsh Gupta",
+			"phoneNumber": 9453278543
+}, {
+			"name": "Luv",
+			"phoneNumber": 9803674332
+}, {
+			"name": "Siddhant",
+			"phoneNumber": 9936866971
+}, {
+			"name": "Sheldon",
+			"phoneNumber": 7607021839
+}
+]
 	},
 	{
 		"id": 103,
@@ -47,10 +57,7 @@
 		"categories": [
 			"e-summit"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 7060882011
-		}]
+		"organizers": []
 	},
 	{
 		"id": 104,
@@ -65,10 +72,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 7060882011
-		}]
+		"organizers": []
 	},
 	{
 		"id": 105,
@@ -83,10 +87,7 @@
 		"categories": [
 			"e-summit"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 106,
@@ -94,7 +95,7 @@
 		"description": "",
 		"location": "Computer Centre 3",
 		"timestamp": 1521187200,
-		"imageUrl": "",
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/qwerty.jpg",
 		"facebookEventLink": "",
 		"duration": 0,
 		"additionalInfo": [],
@@ -102,9 +103,12 @@
 			"miscellaneous"
 		],
 		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+			"name": "Shubham Upadhyay",
+			"phoneNumber": 8115736069
+		}, {
+			"name": "Anjali Kumari",
+			"phoneNumber": 7755041988	
+}]
 	},
 	{
 		"id": 107,
@@ -112,7 +116,7 @@
 		"description": "",
 		"location": "Computer Centre 3",
 		"timestamp": 1521185400,
-		"imageUrl": "",
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/wolf2311.jpg",
 		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -120,16 +124,19 @@
 			"electronics"
 		],
 		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+			"name": "Akshay",
+			"phoneNumber": 7268946456
+		}, {
+			"name": "Naveen Manikanta",
+			"phoneNumber": 9959816210
+}]
 	},
 	{
 		"id": 108,
 		"name": "3 Musketeers",
 		"description": "Can you complete your teammate's incomplete code? Give it a try in this exciting event",
 		"location": "Computer Centre 3",
-		"timestamp": 1521212400,
+		"timestamp": 1521232200,
 		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/musketeers.png",
 		"duration": 60,
 		"facebookEventLink": "https://www.facebook.com/events/226272684614904/",
@@ -153,7 +160,7 @@
 		"description": "",
 		"location": "Computer Centre 3",
 		"timestamp": 1521185400,
-		"imageUrl": "",
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/electrobuzz.jpg",
 		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -161,9 +168,12 @@
 			"electronics"
 		],
 		"organizers": [{
-			"name": "",
-			"phoneNumber": 7060882011
-		}]
+			"name": "Nitish Verma",
+			"phoneNumber": 8765923005
+		}, {
+			"name": "Gaurav Pandey",
+			"phoneNumber": 9721429416
+}]
 	},
 	{
 		"id": 110,
@@ -178,10 +188,7 @@
 		"categories": [
 			"flagship"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 7060882011
-		}]
+		"organizers": []
 	},
 	{
 		"id": 111,
@@ -196,10 +203,7 @@
 		"categories": [
 			"e-summit"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 112,
@@ -214,10 +218,7 @@
 		"categories": [
 			"pronites"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 113,
@@ -225,7 +226,7 @@
 		"description": "",
 		"location": "Online",
 		"timestamp": 1521214200,
-		"imageUrl": "",
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/alkhwarism.jpg",
 		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -233,8 +234,8 @@
 			"coding"
 		],
 		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
+			"name": "Priyanshu Kumar",
+			"phoneNumber": 8052902354
 		}]
 	},
 	{
@@ -250,10 +251,7 @@
 		"categories": [
 			"flagship", "gaming"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 115,
@@ -268,10 +266,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 116,
@@ -286,10 +281,7 @@
 		"categories": [
 			"flagship"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 117,
@@ -304,10 +296,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 118,
@@ -345,10 +334,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 120,
@@ -356,7 +342,7 @@
 		"description": "",
 		"location": "Computer Centre 3",
 		"timestamp": 1521268200,
-		"imageUrl": "",
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/langchallenge.jpg",
 		"facebookEventLink": "",
 		"duration": 0,
 		"additionalInfo": [],
@@ -364,9 +350,12 @@
 			"coding"
 		],
 		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+			"name": "Ayushi Jaiswal",
+			"phoneNumber": 7007830761
+		}, {
+			"name": "Akansha Bhardwaj",
+			"phoneNumber": 8447706195
+}]
 	},
 	{
 		"id": 121,
@@ -381,10 +370,7 @@
 		"categories": [
 			"e-summit"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 122,
@@ -399,10 +385,7 @@
 		"categories": [
 			"flagship", "coding"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 
 	},
 	{
@@ -412,13 +395,20 @@
 		"location": "Online",
 		"timestamp": 1521279000,
 		"duration": 0,
-		"imageUrl": "",
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/matathon.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
 			"electronics"
 		],
-		"organizers": []
+		"organizers": [{
+			"name": "N S Sudheendra",
+			"phoneNumber": 9949409110
+}, {
+			"name": "Prafull Patel",
+			"phoneNumber": 7007865623
+}
+]
 	},
 	{
 		"id": 124,
@@ -433,10 +423,7 @@
 		"categories": [
 			"e-summit"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 125,
@@ -444,7 +431,7 @@
 		"description": "",
 		"location": "Game Zone",
 		"timestamp": 1521302400,
-		"imageUrl": "",
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/gamerasylum.png",
 		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -452,10 +439,13 @@
 			"gaming"
 		],
 		"organizers": [{
-			"name": "",
-			"phoneNumber": 7060882011
+			"name": "Pratyush Raj",
+			"phoneNumber": 7903740635
 
-		}]
+		}, {
+			"name": "Shailendra Kumar",
+			"phoneNumber": 7524091205
+}]
 	},
 	{
 		"id": 126,
@@ -470,10 +460,7 @@
 		"categories": [
 			"flagship", "gaming"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 127,
@@ -499,14 +486,20 @@
 		"description": "",
 		"location": "Computer Centre 3",
 		"timestamp": 1521347400,
-		"imageUrl": "",
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/codequeen.jpg",
 		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
 			"coding"
 		],
-		"organizers": []
+		"organizers": [{
+			"name": "Tanya Agarwal",
+			"phoneNumber": 9305580822
+}, {
+			"name": "Rochisha Haldyani",
+			"phoneNumber": 9456314792
+}]
 	},
 	{
 		"id": 129,
@@ -521,10 +514,7 @@
 		"categories": [
 			"flagship", "coding"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 131,
@@ -532,7 +522,7 @@
 		"description": "",
 		"location": "Computer Centre 3",
 		"timestamp": 1521358200,
-		"imageUrl": "",
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/technofault.jpg",
 		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -540,10 +530,12 @@
 			"electronics"
 		],
 		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-
-		}]
+			"name": "Chandra Mouli",
+			"phoneNumber": 8331903692
+		}, {
+			"name": "Sumit Diwakar",
+			"phoneNumber": 7895495031
+}]
 	},
 	{
 		"id": 132,
@@ -558,12 +550,7 @@
 		"categories": [
 			"design"
 		],
-		"organizers": [{
-				"name": "",
-				"phoneNumber": 1010101010
-			}
-
-		]
+		"organizers": []
 	},
 	{
 		"id": 133,
@@ -602,16 +589,13 @@
 		"categories": [
 			"pronites"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 135,
 		"name": "Infinitum",
 		"description": "Infinitum is an event that will have Mathematical problems that can be solved either by hand or by using programming languages.",
-		"location": "Oonline",
+		"location": "Online",
 		"timestamp": 1521237600,
 		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/Infinitum.png",
 		"duration": 720,
@@ -643,10 +627,7 @@
 		"categories": [
 			"design"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 137,
@@ -661,10 +642,7 @@
 		"categories": [
 			"design"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 138,
@@ -679,10 +657,7 @@
 		"categories": [
 			"miscellaneous"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 139,
@@ -697,10 +672,7 @@
 		"categories": [
 			"miscellaneous"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 140,
@@ -715,10 +687,7 @@
 		"categories": [
 			"flagship"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 141,
@@ -733,10 +702,7 @@
 		"categories": [
 			"flagship"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 142,
@@ -751,10 +717,7 @@
 		"categories": [
 			"flagship"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 143,
@@ -769,10 +732,7 @@
 		"categories": [
 			"development"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	},
 	{
 		"id": 144,
@@ -787,10 +747,6 @@
 		"categories": [
 			"development"
 		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
+		"organizers": []
 	}
-
 ]
