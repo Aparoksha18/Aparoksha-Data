@@ -127,20 +127,25 @@
 	{
 		"id": 108,
 		"name": "3 Musketeers",
-		"description": "",
+		"description": "Can you complete your teammate's incomplete code? Give it a try in this exciting event",
 		"location": "Computer Centre 3",
-		"timestamp": 1521185400,
-		"imageUrl": "",
-		"duration": 0,
-		"facebookEventLink": "",
+		"timestamp": 1521212400,
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/musketeers.png",
+		"duration": 60,
+		"facebookEventLink": "https://www.facebook.com/events/226272684614904/",
 		"additionalInfo": [],
 		"categories": [
 			"coding"
 		],
 		"organizers": [{
-			"name": "",
-			"phoneNumber": 7060882011
-		}]
+				"name": "Tarun Singhal",
+				"phoneNumber": 8318699228
+			},
+			{
+				"name": "Kamal Chaubey",
+				"phoneNumber": 8127172661
+			}
+		]
 	},
 	{
 		"id": 109,
