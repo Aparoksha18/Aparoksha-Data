@@ -1,17 +1,23 @@
 [{
 		"id": 101,
-		"name": "Mock CID / Treasure Hunt",
-		"description": "",
+		"name": "Treasure Hunt",
+		"description": "To keep your adrenaline flowing and blood pumping at break-neck speed, we present the Annual Aparoksha Treasure Hunt!",
 		"location": "Whole Campus",
 		"timestamp": 1521131400,
-		"imageUrl": "",
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/treasurehunt.png",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
 			"informal"
 		],
 		"duration": 240,
-		"organizers": [],
+		"organizers": [{
+			"name": "Shreyansh Dwivedi",
+			"phoneNumber": 7080397532
+		}, {
+			"name": "Rakshit Sai",
+			"phoneNumber": 9703009493
+		}],
 		"coordinates": ""
 	},
 	{
@@ -33,17 +39,16 @@
 		}, {
 			"name": "Utkarsh Gupta",
 			"phoneNumber": 9453278543
-}, {
+		}, {
 			"name": "Luv",
 			"phoneNumber": 9803674332
-}, {
+		}, {
 			"name": "Siddhant",
 			"phoneNumber": 9936866971
-}, {
+		}, {
 			"name": "Sheldon",
 			"phoneNumber": 7607021839
-}
-],
+		}],
 		"coordinates": ""
 	},
 	{
@@ -112,8 +117,8 @@
 			"phoneNumber": 8115736069
 		}, {
 			"name": "Anjali Kumari",
-			"phoneNumber": 7755041988	
-}],
+			"phoneNumber": 7755041988
+		}],
 		"coordinates": ""
 	},
 	{
@@ -135,7 +140,7 @@
 		}, {
 			"name": "Naveen Manikanta",
 			"phoneNumber": 9959816210
-}],
+		}],
 		"coordinates": ""
 	},
 	{
@@ -181,7 +186,7 @@
 		}, {
 			"name": "Gaurav Pandey",
 			"phoneNumber": 9721429416
-}],
+		}],
 		"coordinates": ""
 	},
 	{
@@ -374,7 +379,7 @@
 		}, {
 			"name": "Akansha Bhardwaj",
 			"phoneNumber": 8447706195
-}],
+		}],
 		"coordinates": ""
 	},
 	{
@@ -426,11 +431,10 @@
 		"organizers": [{
 			"name": "N S Sudheendra",
 			"phoneNumber": 9949409110
-}, {
+		}, {
 			"name": "Prafull Patel",
 			"phoneNumber": 7007865623
-}
-],
+		}],
 		"coordinates": ""
 	},
 	{
@@ -469,7 +473,7 @@
 		}, {
 			"name": "Shailendra Kumar",
 			"phoneNumber": 7524091205
-}],
+		}],
 		"coordinates": ""
 	},
 	{
@@ -523,10 +527,10 @@
 		"organizers": [{
 			"name": "Tanya Agarwal",
 			"phoneNumber": 9305580822
-}, {
+		}, {
 			"name": "Rochisha Haldyani",
 			"phoneNumber": 9456314792
-}],
+		}],
 		"coordinates": ""
 	},
 	{
@@ -564,7 +568,7 @@
 		}, {
 			"name": "Sumit Diwakar",
 			"phoneNumber": 7895495031
-}],
+		}],
 		"coordinates": ""
 	},
 	{
@@ -667,17 +671,29 @@
 	{
 		"id": 139,
 		"name": "Perplexus",
-		"description": "",
+		"description": "Perplexus is a flagship online cryptic hunt organised twice a year by IIIT Allahabad.",
 		"location": "Online",
 		"timestamp": 1521052200,
-		"duration": 1440,
-		"imageUrl": "",
+		"duration": 2820,
+		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/perplexus.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
 			"miscellaneous"
 		],
-		"organizers": [],
+		"organizers": [{
+				"name": "Abhishek D Nandan",
+				"phoneNumber": 8603111470
+			},
+			{
+				"name": "Ravicharan N",
+				"phoneNumber": 8187048426
+			},
+			{
+				"name": "Siddhant Srivastav",
+				"phoneNumber": 8765531793
+			}
+		],
 		"coordinates": ""
 	},
 	{
@@ -724,38 +740,6 @@
 		"additionalInfo": [],
 		"categories": [
 			"flagship"
-		],
-		"organizers": [],
-		"coordinates": ""
-	},
-	{
-		"id": 143,
-		"name": "MAD",
-		"description": "",
-		"location": "Computer Centre 3",
-		"timestamp": 0,
-		"imageUrl": "",
-		"duration": 120,
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"development"
-		],
-		"organizers": [],
-		"coordinates": ""
-	},
-	{
-		"id": 144,
-		"name": "WebKriti",
-		"description": "",
-		"location": "Computer Centre 3",
-		"duration": 120,
-		"timestamp": 0,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"development"
 		],
 		"organizers": [],
 		"coordinates": ""
