@@ -11,7 +11,8 @@
 			"informal"
 		],
 		"duration": 240,
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 102,
@@ -42,7 +43,8 @@
 			"name": "Sheldon",
 			"phoneNumber": 7607021839
 }
-]
+],
+		"coordinates": ""
 	},
 	{
 		"id": 103,
@@ -57,7 +59,8 @@
 		"categories": [
 			"e-summit"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 104,
@@ -72,7 +75,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 105,
@@ -87,7 +91,8 @@
 		"categories": [
 			"e-summit"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 106,
@@ -108,7 +113,8 @@
 		}, {
 			"name": "Anjali Kumari",
 			"phoneNumber": 7755041988	
-}]
+}],
+		"coordinates": ""
 	},
 	{
 		"id": 107,
@@ -129,7 +135,8 @@
 		}, {
 			"name": "Naveen Manikanta",
 			"phoneNumber": 9959816210
-}]
+}],
+		"coordinates": ""
 	},
 	{
 		"id": 108,
@@ -152,7 +159,8 @@
 				"name": "Kamal Chaubey",
 				"phoneNumber": 8127172661
 			}
-		]
+		],
+		"coordinates": ""
 	},
 	{
 		"id": 109,
@@ -173,7 +181,8 @@
 		}, {
 			"name": "Gaurav Pandey",
 			"phoneNumber": 9721429416
-}]
+}],
+		"coordinates": ""
 	},
 	{
 		"id": 110,
@@ -188,7 +197,8 @@
 		"categories": [
 			"flagship"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 111,
@@ -203,7 +213,8 @@
 		"categories": [
 			"e-summit"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 112,
@@ -218,7 +229,8 @@
 		"categories": [
 			"pronites"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 113,
@@ -236,7 +248,8 @@
 		"organizers": [{
 			"name": "Priyanshu Kumar",
 			"phoneNumber": 8052902354
-		}]
+		}],
+		"coordinates": ""
 	},
 	{
 		"id": 114,
@@ -251,7 +264,8 @@
 		"categories": [
 			"flagship", "gaming"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 115,
@@ -266,7 +280,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 116,
@@ -281,7 +296,8 @@
 		"categories": [
 			"flagship"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 117,
@@ -296,7 +312,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 118,
@@ -319,7 +336,8 @@
 				"name": "Nikhil Kori",
 				"phoneNumber": 8840149523
 			}
-		]
+		],
+		"coordinates": ""
 	},
 	{
 		"id": 119,
@@ -334,7 +352,8 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 120,
@@ -355,7 +374,8 @@
 		}, {
 			"name": "Akansha Bhardwaj",
 			"phoneNumber": 8447706195
-}]
+}],
+		"coordinates": ""
 	},
 	{
 		"id": 121,
@@ -370,7 +390,8 @@
 		"categories": [
 			"e-summit"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 122,
@@ -385,7 +406,8 @@
 		"categories": [
 			"flagship", "coding"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 
 	},
 	{
@@ -408,7 +430,8 @@
 			"name": "Prafull Patel",
 			"phoneNumber": 7007865623
 }
-]
+],
+		"coordinates": ""
 	},
 	{
 		"id": 124,
@@ -423,7 +446,8 @@
 		"categories": [
 			"e-summit"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 125,
@@ -445,7 +469,8 @@
 		}, {
 			"name": "Shailendra Kumar",
 			"phoneNumber": 7524091205
-}]
+}],
+		"coordinates": ""
 	},
 	{
 		"id": 126,
@@ -460,7 +485,8 @@
 		"categories": [
 			"flagship", "gaming"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 127,
@@ -478,7 +504,8 @@
 		"organizers": [{
 			"name": "",
 			"phoneNumber": 1010101010
-		}]
+		}],
+		"coordinates": ""
 	},
 	{
 		"id": 128,
@@ -499,7 +526,8 @@
 }, {
 			"name": "Rochisha Haldyani",
 			"phoneNumber": 9456314792
-}]
+}],
+		"coordinates": ""
 	},
 	{
 		"id": 129,
@@ -514,7 +542,8 @@
 		"categories": [
 			"flagship", "coding"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 131,
@@ -535,7 +564,8 @@
 		}, {
 			"name": "Sumit Diwakar",
 			"phoneNumber": 7895495031
-}]
+}],
+		"coordinates": ""
 	},
 	{
 		"id": 132,
@@ -550,7 +580,8 @@
 		"categories": [
 			"design"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 133,
@@ -574,7 +605,8 @@
 				"phoneNumber": 7571840301
 
 			}
-		]
+		],
+		"coordinates": ""
 	},
 	{
 		"id": 134,
@@ -589,7 +621,8 @@
 		"categories": [
 			"pronites"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 135,
@@ -612,7 +645,8 @@
 				"name": "Lakshya Khattar",
 				"phoneNumber": 7986089309
 			}
-		]
+		],
+		"coordinates": ""
 	},
 	{
 		"id": 136,
@@ -627,7 +661,8 @@
 		"categories": [
 			"design"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 139,
@@ -642,7 +677,8 @@
 		"categories": [
 			"miscellaneous"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 140,
@@ -657,7 +693,8 @@
 		"categories": [
 			"flagship"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 141,
@@ -672,7 +709,8 @@
 		"categories": [
 			"flagship"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 142,
@@ -687,7 +725,8 @@
 		"categories": [
 			"flagship"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 143,
@@ -702,7 +741,8 @@
 		"categories": [
 			"development"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	},
 	{
 		"id": 144,
@@ -717,6 +757,7 @@
 		"categories": [
 			"development"
 		],
-		"organizers": []
+		"organizers": [],
+		"coordinates": ""
 	}
 ]
