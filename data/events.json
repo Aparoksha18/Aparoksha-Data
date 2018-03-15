@@ -676,7 +676,7 @@
 		"timestamp": 1521052200,
 		"duration": 2820,
 		"imageUrl": "https://raw.githubusercontent.com/Aparoksha18/Aparoksha-Data/master/images/events/perplexus.jpg",
-		"facebookEventLink": "",
+		"facebookEventLink": "https://www.facebook.com/events/575909092763183/",
 		"additionalInfo": [],
 		"categories": [
 			"miscellaneous"
@@ -699,7 +699,7 @@
 	{
 		"id": 140,
 		"name": "Hack In The North",
-		"description": "",
+		"description": "One of the largest student-held Hackathon in the country, Hack In The North comes back with its third edition this March",
 		"location": "Computer Centre 3",
 		"timestamp": 1521225000,
 		"duration": 2160,
@@ -709,7 +709,15 @@
 		"categories": [
 			"flagship"
 		],
-		"organizers": [],
+		"organizers": [
+{
+		"name": "Abhinav Khare,
+		"phoneNumber: 8989118413
+}, {
+		"name": "Faheem Zunjani",
+		"phoneNumber": 7828064086 
+}
+],
 		"coordinates": ""
 	},
 	{
